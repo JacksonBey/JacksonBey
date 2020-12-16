@@ -35,4 +35,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/jackson-beytebiere-2049951b6
+[linkedin]: https://www.linkedin.com/in/jackson-beytebi            
