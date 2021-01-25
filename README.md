@@ -1,6 +1,6 @@
 ### Hi there, I'm Jackson
 ## I'm a Musician, Gardener and Full Stack Web Developer!
-- 2020 Goals: Contribute to open source projects
+- 2021 Goals: Contribute to open source projects
 <br />
 
 ---
